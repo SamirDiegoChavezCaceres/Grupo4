@@ -5,7 +5,7 @@ class Calculator {
   }
   int sub(int a, int b){ 
 	  int res = a - b;
-	  return ; 
+	  return res; 
   }
   int mul(int a, int b){ return a*b; }
   int div(int a, int b){ return a/b; }
