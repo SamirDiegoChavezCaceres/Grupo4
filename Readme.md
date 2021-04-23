@@ -1,0 +1,1 @@
+En este repositorio haremos pruebas con git y github para un trabajo colaborativo, para ello usaremos la clase Calculator en java, cada integrante agregara una funcion a esta.
